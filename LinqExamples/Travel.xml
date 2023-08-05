@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Locations>
+   <Location>
+      <Name>Bangkok</Name>
+      <Continent>Asia</Continent>      
+      <Image>Bangkok.jpg</Image>
+      <Price>25000</Price>
+   </Location>
+   <Location>
+      <Name>Dubai</Name>
+      <Continent>Asia</Continent>      
+      <Image>Dubai.jpg</Image>
+      <Price>22000</Price>
+   </Location>
+   <Location>
+      <Name>Hong Kong</Name>
+      <Continent>Asia</Continent>      
+      <Image>HongKong.jpg</Image>
+      <Price>35000</Price>
+   </Location>
+   <Location>
+      <Name>London</Name>
+      <Continent>Europe</Continent>      
+      <Image>London.jpg</Image>
+      <Price>50000</Price>
+   </Location>
+   <Location>
+      <Name>Mumbai</Name>
+      <Continent>Asia</Continent>      
+      <Image>Mumbai.jpg</Image>
+      <Price>15000</Price>
+   </Location>
+   <Location>
+      <Name>New York</Name>
+      <Continent>North America</Continent>      
+      <Image>NewYork.jpg</Image>
+      <Price>60000</Price>
+   </Location>
+   <Location>
+      <Name>Paris</Name>
+      <Continent>Europe</Continent>      
+      <Image>Paris.jpg</Image>
+      <Price>45000</Price>
+   </Location>
+   <Location>
+      <Name>Rio de Janeiro</Name>
+      <Continent>South America</Continent>      
+      <Image>RiodeJaneiro.jpg</Image>
+      <Price>55000</Price>
+   </Location>
+   <Location>
+      <Name>Singapore</Name>
+      <Continent>Asia</Continent>      
+      <Image>Singapore.jpg</Image>
+      <Price>30000</Price>
+   </Location>
+   <Location>
+      <Name>Sydney</Name>
+      <Continent>Australia</Continent>      
+      <Image>Sydney.jpg</Image>
+      <Price>75000</Price>
+   </Location>
+</Locations>
